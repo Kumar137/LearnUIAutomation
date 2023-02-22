@@ -22,7 +22,7 @@ public class CalendarPopup {
 //        Wait wait=new WebDriverWait(driver,TimeUnit.SECONDS.toSeconds(10));
 //        wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.xpath("//a[@class='close']"))));
 
-        Thread.sleep(5000);
+       //// Thread.sleep(5000);
 
       //  driver.findElement(By.xpath("//a[@class='close']")).click();
 
