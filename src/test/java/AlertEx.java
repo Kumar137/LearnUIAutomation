@@ -19,7 +19,7 @@ public class AlertEx {
         driver.findElement(By.name("cusid")).sendKeys("1234567");
         driver.findElement(By.name("submit")).click();
 
-
+//////
         Alert alt=driver.switchTo().alert();
         Thread.sleep(1000);
        // alt.accept();
