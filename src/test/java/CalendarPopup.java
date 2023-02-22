@@ -14,7 +14,7 @@ public class CalendarPopup {
 
         //To open new browser
         WebDriver driver=new ChromeDriver();
-        driver.get("https://www.makemytrip.com/");
+        driver.get("https://www.cleartrip.com/");
 
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

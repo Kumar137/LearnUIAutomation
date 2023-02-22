@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 public class ImplicitWait {
 
     public static void main(String[] args) throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver","C:\\chromedriver_win32 (7)\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","D:\\chromedriver_win32 (7)\\chromedriver.exe");
 
 
         //To open new browser
